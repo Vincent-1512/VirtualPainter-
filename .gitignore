@@ -1,0 +1,10 @@
+
+# Thư mục môi trường ảo
+venv/
+
+# Các file tạo ra khi chạy Python
+__pycache__/
+*.pyc
+
+# Các file của macOS
+.DS_Store
